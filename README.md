@@ -46,3 +46,9 @@ Save the resulting stitched image in the "data" folder named as panorama.png.
 * Download and extract the contents of ceng391_hw03.tar.gz.
 * Open and run the Python scripts detect_and_match.py, ransac.py, and stitch.py located in the src folder.
 * The scripts will perform the specified tasks and save the output images and text files in the "data" folder.
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License. Copyright (c) 2026 Buğrahan İmal. You are free to use, copy, modify, merge, publish, and distribute this software as per the license conditions.
